@@ -1,4 +1,4 @@
-![](https://github.com/ashish620-boogle/ashish620-boogle/blob/main/intro.gif)
+![](https://raw.githubusercontent.com/ashish620-boogle/ashish620-boogle/main/Get%20started%20in%20Canva.mp4)
 
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 I'm an AI enthusiast who loves to learn about new things. Connect with me on LinkedIn.
