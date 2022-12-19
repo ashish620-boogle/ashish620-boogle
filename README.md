@@ -1,7 +1,7 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/56781844/173817836-3404fe87-31f1-40d6-87a6-d25f9e9933ec.gif)
+![ezgif com-gif-maker](https://www.canva.com/design/DAFVOs6v7uM/h9QPXH6X3qfZiwc7AAi6sw/view#1)
 
 <!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
+I'm an AI enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
